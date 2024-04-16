@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = TiendaServicios.Api.Libro.Tests
+build_property.ProjectDir = C:\Users\jcisnero\Desktop\Codes\entrenamiento\MicroServ\MicroserviceTienda\TiendaServicios\TiendaServicios.Api.Libro.Tests\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
