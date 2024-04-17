@@ -32,10 +32,22 @@ namespace TiendaServicios.Api.CarritoCompra
         {
             services.AddScoped<ILibrosService, LibrosService>();
             services.AddControllers();
-            services.AddDbContext<CarritoContexto>(options =>
+
+
+
+            //services.AddDbContext<CarritoContexto>(options =>
+            //{
+            //    options.UseMySQL(Configuration.GetConnectionString("ConexionDatabase"));
+            //});
+
+            services.AddDbContext<CarritoContexto>(opt =>
             {
-                options.UseMySQL(Configuration.GetConnectionString("ConexionDatabase"));
+                opt.UseSqlServer(Configuration.GetConnectionString("ConexionDB"));
             });
+
+
+
+
             services.AddMediatR(typeof(Nuevo.Manejador).Assembly);
             services.AddHttpClient("Libros", config =>
             {
