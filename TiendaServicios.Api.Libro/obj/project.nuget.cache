@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KNgzPTTBfH2CQJsqzNy0UYduEwSXMnS6M4IBZai1YLKrkxRY6ueZu1fLtaSsBiArHk+itdO2wV4X6BJC+DnSHw==",
+  "dgSpecHash": "BAmwXIdH+MdYehNWPv7PgVfk1JoHhbR+uHKpTMfrfesOWTxe06Ni0pocejjlI3LJplIJQfoTY4mwmujUOdjSkQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\jcisnero\\Desktop\\Codes\\entrenamiento\\MicroServ\\MicroserviceTienda\\TiendaServicios\\TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj",
   "expectedPackageFiles": [
@@ -36,6 +36,7 @@
     "C:\\Users\\jcisnero\\.nuget\\packages\\microsoft.identity.client\\3.0.8\\microsoft.identity.client.3.0.8.nupkg.sha512",
     "C:\\Users\\jcisnero\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\jcisnero\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\jcisnero\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\jcisnero\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\jcisnero\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\jcisnero\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

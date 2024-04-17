@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30204.135
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaServicios.Api.Autor", "TiendaServicios.Api.Autor\TiendaServicios.Api.Autor.csproj", "{904FB0C9-6C3F-4027-99B5-855B0A83E543}"
 EndProject
@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaServicios.Api.Libro",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaServicios.Api.CarritoCompra", "TiendaServicios.Api.CarritoCompra\TiendaServicios.Api.CarritoCompra.csproj", "{8FF1CE88-38D1-473A-855A-BA0789CE54C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaServicios.Api.Libro.Tests", "TiendaServicios.Api.Libro.Tests\TiendaServicios.Api.Libro.Tests.csproj", "{8D4C46ED-7627-4869-B832-DE025C49694D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaServicios.Api.Libro.Tests", "TiendaServicios.Api.Libro.Tests\TiendaServicios.Api.Libro.Tests.csproj", "{8D4C46ED-7627-4869-B832-DE025C49694D}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{782E5B65-A3AE-466F-8F32-5B6C9245D201}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{8D4C46ED-7627-4869-B832-DE025C49694D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D4C46ED-7627-4869-B832-DE025C49694D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D4C46ED-7627-4869-B832-DE025C49694D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{782E5B65-A3AE-466F-8F32-5B6C9245D201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{782E5B65-A3AE-466F-8F32-5B6C9245D201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{782E5B65-A3AE-466F-8F32-5B6C9245D201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{782E5B65-A3AE-466F-8F32-5B6C9245D201}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

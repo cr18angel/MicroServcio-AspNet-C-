@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3N5yoEiezUAhozGOfpg5R6rcCTFiezhEn8F5H3aMwGhtPfzWb/6+HtNTCtQGkmBAWHAvOH3+KwSIUgraTjuyKQ==",
+  "dgSpecHash": "v962xvvBZv8baMO40MHTVCR6E9WXASkMfZfdZCw5n2tMKLdqLzFDZZSAvsnKWZvHBpL4X0Iw0kDIwapxjE0gfg==",
   "success": true,
   "projectFilePath": "C:\\Users\\jcisnero\\Desktop\\Codes\\entrenamiento\\MicroServ\\MicroserviceTienda\\TiendaServicios\\TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj",
   "expectedPackageFiles": [
@@ -33,6 +33,7 @@
     "C:\\Users\\jcisnero\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.2\\microsoft.extensions.primitives.3.1.2.nupkg.sha512",
     "C:\\Users\\jcisnero\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\jcisnero\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\jcisnero\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\jcisnero\\.nuget\\packages\\npgsql\\4.1.3\\npgsql.4.1.3.nupkg.sha512",
     "C:\\Users\\jcisnero\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\3.1.2\\npgsql.entityframeworkcore.postgresql.3.1.2.nupkg.sha512",
     "C:\\Users\\jcisnero\\.nuget\\packages\\system.collections.immutable\\1.7.0\\system.collections.immutable.1.7.0.nupkg.sha512",
