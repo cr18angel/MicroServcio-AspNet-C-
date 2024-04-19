@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ng4SFnqiNwuOj8wc41XWmCsVBauTxvExQzOpX+bG8x0fuMkdEOt5w91u9vS5MhiIsL9UGnfMj7buO3ybpdhx2g==",
+  "dgSpecHash": "i+eh8RdZEAfoWQ6dH0dUCXcS+20fWc2q9jCQ3CGFPpXNyeA5u7yMJsOYTtxFnf5rwFZvTyKTk2i8YrclTrstqg==",
   "success": true,
   "projectFilePath": "C:\\Users\\jcisnero\\Desktop\\Codes\\entrenamiento\\MicroServ\\MicroserviceTienda\\TiendaServicios\\TiendaServicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj",
   "expectedPackageFiles": [
@@ -42,6 +42,7 @@
     "C:\\Users\\jcisnero\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\jcisnero\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.5.0\\microsoft.testplatform.objectmodel.16.5.0.nupkg.sha512",
     "C:\\Users\\jcisnero\\.nuget\\packages\\microsoft.testplatform.testhost\\16.5.0\\microsoft.testplatform.testhost.16.5.0.nupkg.sha512",
+    "C:\\Users\\jcisnero\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\jcisnero\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\jcisnero\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\jcisnero\\.nuget\\packages\\moq\\4.14.5\\moq.4.14.5.nupkg.sha512",
